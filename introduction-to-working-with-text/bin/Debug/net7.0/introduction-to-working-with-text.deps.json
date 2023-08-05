@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "introduction-to-working-with-text/1.0.0": {
+        "runtime": {
+          "introduction-to-working-with-text.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "introduction-to-working-with-text/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
