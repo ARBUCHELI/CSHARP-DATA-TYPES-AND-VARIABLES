@@ -1,0 +1,15 @@
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\string-interpolation\bin\Debug\net7.0\string-interpolation.exe
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\string-interpolation\bin\Debug\net7.0\string-interpolation.deps.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\string-interpolation\bin\Debug\net7.0\string-interpolation.runtimeconfig.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\string-interpolation\bin\Debug\net7.0\string-interpolation.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\string-interpolation\bin\Debug\net7.0\string-interpolation.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\string-interpolation\obj\Debug\net7.0\string-interpolation.csproj.AssemblyReference.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\string-interpolation\obj\Debug\net7.0\string-interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\string-interpolation\obj\Debug\net7.0\string-interpolation.AssemblyInfoInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\string-interpolation\obj\Debug\net7.0\string-interpolation.AssemblyInfo.cs
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\string-interpolation\obj\Debug\net7.0\string-interpolation.csproj.CoreCompileInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\string-interpolation\obj\Debug\net7.0\string-interpolation.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\string-interpolation\obj\Debug\net7.0\refint\string-interpolation.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\string-interpolation\obj\Debug\net7.0\string-interpolation.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\string-interpolation\obj\Debug\net7.0\string-interpolation.genruntimeconfig.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\string-interpolation\obj\Debug\net7.0\ref\string-interpolation.dll
