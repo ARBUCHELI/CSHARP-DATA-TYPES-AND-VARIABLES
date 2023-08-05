@@ -1,0 +1,15 @@
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-parts-of-strings\bin\Debug\net7.0\get-parts-of-strings.exe
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-parts-of-strings\bin\Debug\net7.0\get-parts-of-strings.deps.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-parts-of-strings\bin\Debug\net7.0\get-parts-of-strings.runtimeconfig.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-parts-of-strings\bin\Debug\net7.0\get-parts-of-strings.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-parts-of-strings\bin\Debug\net7.0\get-parts-of-strings.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-parts-of-strings\obj\Debug\net7.0\get-parts-of-strings.csproj.AssemblyReference.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-parts-of-strings\obj\Debug\net7.0\get-parts-of-strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-parts-of-strings\obj\Debug\net7.0\get-parts-of-strings.AssemblyInfoInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-parts-of-strings\obj\Debug\net7.0\get-parts-of-strings.AssemblyInfo.cs
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-parts-of-strings\obj\Debug\net7.0\get-parts-of-strings.csproj.CoreCompileInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-parts-of-strings\obj\Debug\net7.0\get-parts-of-strings.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-parts-of-strings\obj\Debug\net7.0\refint\get-parts-of-strings.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-parts-of-strings\obj\Debug\net7.0\get-parts-of-strings.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-parts-of-strings\obj\Debug\net7.0\get-parts-of-strings.genruntimeconfig.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-parts-of-strings\obj\Debug\net7.0\ref\get-parts-of-strings.dll
