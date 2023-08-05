@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "converting-data-types/1.0.0": {
+        "runtime": {
+          "converting-data-types.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "converting-data-types/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
