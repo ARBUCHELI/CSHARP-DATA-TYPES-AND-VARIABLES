@@ -1,0 +1,15 @@
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\manipulate-strings\bin\Debug\net7.0\manipulate-strings.exe
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\manipulate-strings\bin\Debug\net7.0\manipulate-strings.deps.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\manipulate-strings\bin\Debug\net7.0\manipulate-strings.runtimeconfig.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\manipulate-strings\bin\Debug\net7.0\manipulate-strings.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\manipulate-strings\bin\Debug\net7.0\manipulate-strings.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\manipulate-strings\obj\Debug\net7.0\manipulate-strings.csproj.AssemblyReference.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\manipulate-strings\obj\Debug\net7.0\manipulate-strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\manipulate-strings\obj\Debug\net7.0\manipulate-strings.AssemblyInfoInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\manipulate-strings\obj\Debug\net7.0\manipulate-strings.AssemblyInfo.cs
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\manipulate-strings\obj\Debug\net7.0\manipulate-strings.csproj.CoreCompileInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\manipulate-strings\obj\Debug\net7.0\manipulate-strings.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\manipulate-strings\obj\Debug\net7.0\refint\manipulate-strings.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\manipulate-strings\obj\Debug\net7.0\manipulate-strings.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\manipulate-strings\obj\Debug\net7.0\manipulate-strings.genruntimeconfig.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\manipulate-strings\obj\Debug\net7.0\ref\manipulate-strings.dll
