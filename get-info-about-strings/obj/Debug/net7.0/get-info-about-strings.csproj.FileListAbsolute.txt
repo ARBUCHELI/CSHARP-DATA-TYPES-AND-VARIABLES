@@ -1,0 +1,15 @@
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-info-about-strings\bin\Debug\net7.0\get-info-about-strings.exe
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-info-about-strings\bin\Debug\net7.0\get-info-about-strings.deps.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-info-about-strings\bin\Debug\net7.0\get-info-about-strings.runtimeconfig.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-info-about-strings\bin\Debug\net7.0\get-info-about-strings.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-info-about-strings\bin\Debug\net7.0\get-info-about-strings.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-info-about-strings\obj\Debug\net7.0\get-info-about-strings.csproj.AssemblyReference.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-info-about-strings\obj\Debug\net7.0\get-info-about-strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-info-about-strings\obj\Debug\net7.0\get-info-about-strings.AssemblyInfoInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-info-about-strings\obj\Debug\net7.0\get-info-about-strings.AssemblyInfo.cs
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-info-about-strings\obj\Debug\net7.0\get-info-about-strings.csproj.CoreCompileInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-info-about-strings\obj\Debug\net7.0\get-info-about-strings.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-info-about-strings\obj\Debug\net7.0\refint\get-info-about-strings.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-info-about-strings\obj\Debug\net7.0\get-info-about-strings.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-info-about-strings\obj\Debug\net7.0\get-info-about-strings.genruntimeconfig.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\get-info-about-strings\obj\Debug\net7.0\ref\get-info-about-strings.dll
