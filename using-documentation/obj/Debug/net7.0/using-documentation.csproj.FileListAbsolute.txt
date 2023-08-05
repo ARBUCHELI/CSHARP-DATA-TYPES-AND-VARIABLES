@@ -1,0 +1,15 @@
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\using-documentation\bin\Debug\net7.0\using-documentation.exe
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\using-documentation\bin\Debug\net7.0\using-documentation.deps.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\using-documentation\bin\Debug\net7.0\using-documentation.runtimeconfig.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\using-documentation\bin\Debug\net7.0\using-documentation.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\using-documentation\bin\Debug\net7.0\using-documentation.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\using-documentation\obj\Debug\net7.0\using-documentation.csproj.AssemblyReference.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\using-documentation\obj\Debug\net7.0\using-documentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\using-documentation\obj\Debug\net7.0\using-documentation.AssemblyInfoInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\using-documentation\obj\Debug\net7.0\using-documentation.AssemblyInfo.cs
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\using-documentation\obj\Debug\net7.0\using-documentation.csproj.CoreCompileInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\using-documentation\obj\Debug\net7.0\using-documentation.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\using-documentation\obj\Debug\net7.0\refint\using-documentation.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\using-documentation\obj\Debug\net7.0\using-documentation.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\using-documentation\obj\Debug\net7.0\using-documentation.genruntimeconfig.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# DATA TYPES AND VARIABLES\using-documentation\obj\Debug\net7.0\ref\using-documentation.dll
