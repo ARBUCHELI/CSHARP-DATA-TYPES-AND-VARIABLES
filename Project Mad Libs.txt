@@ -158,24 +158,24 @@ Note that the snippet of code above has been abbreviated.
 12.
 Write the names of each variable inside of the brackets. Here’s the order that they should appear in:
 
-Name
-First adjective
-Second adjective
-Animal
-Food
-Verb
-First noun
-Fruit
-Third adjective
-Name
-Superhero
-Name
-Country
-Name
-Dessert
-Name
-Year
-Second noun
+	1. Name
+	2. First adjective
+	3. Second adjective
+	4. Animal
+	5. Food
+	6. Verb
+	7. First noun
+	8. Fruit
+	9. Third adjective
+	10. Name
+	11. Superhero
+	12. Name
+	13. Country
+	14. Name
+	15. Dessert
+	16. Name
+	17. Year
+	18. Second noun
 
 Hint
 Remember, this isn’t a list of the variables names — you have to supply the correct variable name!
