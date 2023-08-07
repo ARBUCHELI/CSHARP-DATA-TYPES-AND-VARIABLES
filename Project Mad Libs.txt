@@ -1,0 +1,328 @@
+# PROJECT
+---------
+
+* Mad Libs
+----------
+In C#, variables and string interpolation allow us to transform a piece of text by swapping out different pieces of information.
+
+In this project, we’ll use C# to write a Mad Libs word game! Mad Libs are short stories with blanks for the player to fill in that represent different parts of speech. The end result is a 
+really hilarious and strange story.
+
+Here’s an example of the “Roses are Red” poem changed into a Mad Lib:
+
+Mad Libs require: A short story with blank spaces (asking for different types of words). Words from the player to fill in those blanks.
+
+For this project, we have provided the story, but it will be up to you to complete the following: Prompt the user for inputs. Print the story with the inputs in the right places.
+
+It’s important to note that for this project, you should test your app periodically — when you hit save, your app will not run! To run your app, enter dotnet run into the terminal.
+
+Let’s begin!
+
+Tasks
+14/14 Complete
+Mark the tasks as complete by checking them off
+
+* MadLibs Set Up
+----------------
+1.
+Begin by completing the multi-line comment that describes this program.
+
+
+Hint
+Multi-line comments look like this:
+
+/*
+This program does
+the following...
+ 
+Author: your-name
+*/
+ 
+It’s helpful to let other programmers know what your program does when they are reading your code.
+
+2.
+Inform the user that the program is running. You need to be constantly thinking from the users’ point of view – they are the ones who run your program. Make sure that your program is easy 
+for others to understand!
+
+Before the string story, print a message to let the user know that Mad Libs has started.
+
+
+Hint
+Console.WriteLine("Mad Libs is starting!");
+ 
+Remember, you are playing two roles here: the programmer the user
+
+When you are writing the code, you are the programmer, but you still need to be thinking about the end user.
+
+3.
+Give your story a title. Change the value of the variable title to a title that you like.
+
+
+Hint
+To change the value of a string variable, change the content that is inside the quotation " marks.
+
+4.
+Take a look at the string variable named story. It is set equal to a string that contains our story.
+
+* Creating the Variables
+------------------------
+5.
+Now we’re going to start creating the variables that we will use in our story. Make sure to declare all of your variables above the variable story, otherwise you won’t be able to use them 
+in the story!
+
+The story that we have provided is going to need a main character. Ask the user to input a name, and store the user’s input in a variable with a string type:
+
+Console.Write("Enter a name: ");
+string name = Console.ReadLine();
+ 
+Note: It’s good practice to use short, but descriptive variable names.
+
+
+Hint
+Console.Write() is used to provide instructions to the user. Notice the difference between Console.Write() and Console.WriteLine(). The latter creates a newline, but the former doesn’t. 
+By using the former, the user can type immediately after it. Console.ReadLine() waits for the user to type a response and then saves whatever they enter into the variable name.
+
+6.
+You will need to ask the user for three adjectives. An adjective is a word that describes a noun, like a color (‘blue’), or feeling (‘silly’), texture (‘soft’).
+
+Ask the user for input three separate times. Store each adjective that the user inputs into variables with descriptive names, like you did when you asked the user for a name.
+
+
+Hint
+Notice the difference in naming between these two variables. Which one is more descriptive?
+
+Console.Write("Enter a word: ");
+string word = Console.ReadLine();
+ 
+Console.Write("Enter a first adjective: ");
+string adj1 = Console.ReadLine();
+ 
+7.
+It’s a good practice to save and run your code every few steps to make sure there are no bugs. In the terminal, type the following command and press Enter on your keyboard: dotnet run
+
+
+Hint
+Executing this command in the terminal tells the computer to run the Program.cs program. The expected behavior is that it should print out whatever you have written inside of the 
+Console.WriteLine() commands. For each Console.Read() commands, the terminal should pause until the user types something into the terminal and presses Enter.
+
+If you are getting an error, make sure to debug (check your code for typos or mistakes) before repeating this task. Common errors include: Misspelling variable names or commands Not closing quotation marks Missing semicolons (this ain’t JavaScript, y’all) Not assigning a type to your variables
+
+8.
+Moving on! You’ll also need to ask the user for one verb. A verb is a word that represents an action, like ‘sit’, ‘eat’, ‘sleep’
+
+Ask the user to input a verb and store their response in a variable.
+
+9.
+The story also needs two nouns. A noun is a person (‘girl’), place (‘cabin’), or thing (‘toaster’).
+
+Ask the user to input two nouns. Store each noun in its own variable.
+
+10.
+This is where the story can get really fun and weird. Ask the user to input one of each of the following:
+
+	. An animal
+
+	. A food
+
+	. A fruit
+
+	. A superhero
+
+	. A country
+
+	. A dessert
+
+	. A year
+
+Make sure to save the inputs into different variables. Run your code again to make sure you have everything in place before the next task!
+
+* Using String Interpolation
+----------------------------
+
+11.
+At this point, we have all the words needed for the story. Great job!
+
+The next step is to insert all of the user’s inputs into the blank spaces of the story using string interpolation.
+
+Put a $ in front of the first quotation mark " in story and replace each underscore _ with a set of empty braces{}.
+
+
+Hint
+Remember that when we use string interpolation we place a dollar sign $ before the string we are going to interpolate and then place braces {} where we want our variables to go. The 
+variable names then go inside of the brackets, which we’ll do in a later step.
+
+string story = $"This morning {} woke up feeling {}…";
+ 
+Note that the snippet of code above has been abbreviated.
+
+12.
+Write the names of each variable inside of the brackets. Here’s the order that they should appear in:
+
+Name
+First adjective
+Second adjective
+Animal
+Food
+Verb
+First noun
+Fruit
+Third adjective
+Name
+Superhero
+Name
+Country
+Name
+Dessert
+Name
+Year
+Second noun
+
+Hint
+Remember, this isn’t a list of the variables names — you have to supply the correct variable name!
+
+string story = $"This morning {name} woke up feeling {adj1}…";
+ 
+Note that the snippet of code above has been abbreviated.
+
+* Complete and Run the Program
+------------------------------
+
+13.
+Write a line of code that prints out the completed story to the terminal.
+
+
+Hint
+The command Console.WriteLine() will come in handy here.
+
+14.
+Let’s run the program!
+
+Save the program. Then, in the terminal, type the following command and press Enter:
+
+dotnet run
+ 
+
+Hint
+If you encounter an error when running Program.cs, make sure to double check your code for typos or mistakes. If the program ran successfully in task 7, then the error(s) is in the code 
+you wrote after that point.
+
+Common errors:
+
+	. A mismatch between the number of variables to be interpolated and the number of placeholders.
+
+	. An empty placeholder.
+
+	. A mismatch in variable names.
+
+If you are feeling ambitious, modify the story and the code to create your very own Mad Libs!
+
+Program.cs
+----------
+using System;
+
+namespace MadLibs
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      /*
+      This program implements mad lib stories asking the user for inputs.
+      Author: Andres R. Bucheli.
+      */
+
+
+      // Let the user know that the program is starting:
+      Console.WriteLine("Welcome!! Mad Libs has started!!");
+
+      // Give the Mad Lib a title:
+      string title = "The Protest";
+
+      Console.WriteLine(title);
+      // Define user input and variables:
+      Console.Write("Enter a name: ");
+      string name = Console.ReadLine();
+
+      Console.Write("Enter a first adjective: ");
+      string adjective1 = Console.ReadLine();
+
+      Console.Write("Enter a second adjective: ");
+      string adjective2 = Console.ReadLine();
+
+      Console.Write("Enter a third adjective: ");
+      string adjective3 = Console.ReadLine();
+
+      Console.Write("Enter a verb: ");
+      string verb = Console.ReadLine();
+      // The template for the story:
+      Console.Write("Enter a first noun: ");
+      string noun1 = Console.ReadLine();
+
+      Console.Write("Enter a second noun: ");
+      string noun2 = Console.ReadLine();
+
+      Console.Write("Enter an animal: ");
+      string animal = Console.ReadLine();
+
+      Console.Write("Enter a food: ");
+      string food = Console.ReadLine();
+
+      Console.Write("Enter a fruit: ");
+      string fruit = Console.ReadLine();
+
+      Console.Write("Enter a superhero: ");
+      string superhero = Console.ReadLine();
+
+      Console.Write("Enter a country: ");
+      string country = Console.ReadLine();
+
+      Console.Write("Enter a dessert: ");
+      string dessert = Console.ReadLine();
+
+      Console.Write("Enter a year: ");
+      string year = Console.ReadLine();
+
+      string story = $"This morning {name} woke up feeling {adjective1}. 'It is going to be a {adjective2} day!' Outside, a bunch of {animal}s were protesting to keep {food} in stores. They began to {verb} to the rhythm of the {noun1}, which made all the {fruit}s very {adjective3}. Concerned, {name} texted {superhero}, who fle {name} to {country} and dropped {name} in a puddle of frozen {dessert}. {name} woke up in the year {year}, in a world where {noun2}s ruled the world.";
+
+
+      // Print the story:
+      Console.WriteLine(story);
+    }
+  }
+}
+
+==================================================================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
